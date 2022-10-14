@@ -64,4 +64,4 @@ print(np.mean(monthly_plays))
 # 9.0 TODO: In playlist_helpers.py, define a new function called play_track()
 # See playlist_helpers.py for details on how to define this function
 # In this file, play a few tracks, and run display_playlist() again to make sure it works
-play_track(my_playlist, 4)
+play_track(my_playlist, 2)
